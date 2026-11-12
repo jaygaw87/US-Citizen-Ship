@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">US Citizenship Test Prep</string>
+
+    <!-- Header -->
+    <string name="header_title">US Citizenship</string>
+    <string name="header_ribbon_text">TEST PREP</string>
+    <string name="header_subtitle">Civics • Interview • Practice</string>
+    <string name="content_desc_menu">Open menu</string>
+    <string name="content_desc_notifications">View notifications</string>
+    <string name="content_desc_header_art">Patriotic background illustration</string>
+
+    <!-- Version Selector -->
+    <string name="version_2025_title">2025 Civics Test</string>
+    <string name="version_2025_badge">NEW</string>
+    <string name="version_2008_title">2008 Civics Test</string>
+
+    <!-- 6 Feature Cards -->
+    <string name="card_study_title">Study Questions</string>
+    <string name="card_study_subtitle">All USCIS civics questions</string>
+
+    <string name="card_practice_title">Practice Test</string>
+    <string name="card_practice_subtitle">Full 20-question test</string>
+
+    <string name="card_flashcards_title">Flashcards</string>
+    <string name="card_flashcards_subtitle">Quick learn &amp; revise</string>
+
+    <string name="card_interview_title">Interview Prep</string>
+    <string name="card_interview_subtitle">Common interview questions</string>
+
+    <string name="card_my_progress_title">My Progress</string>
+    <string name="card_my_progress_subtitle">Track your study results</string>
+
+    <string name="card_saved_title">Saved Questions</string>
+    <string name="card_saved_subtitle">Review your favorites</string>
+
+    <!-- Progress Card -->
+    <string name="progress_card_title">Your Study Progress</string>
+    <string name="progress_percent_sample">72%</string>
+    <string name="progress_mastered_sample">58 of 80 questions mastered</string>
+    <string name="progress_percent_2008_sample">85%</string>
+    <string name="progress_mastered_2008_sample">85 of 100 questions mastered</string>
+    <string name="content_desc_progress_details">View detailed progress</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_study">Study</string>
+    <string name="nav_practice">Practice</string>
+    <string name="nav_progress">Progress</string>
+    <string name="nav_settings">Settings</string>
+</resources>

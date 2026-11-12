@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Application Theme using Material 3 -->
+    <style name="Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/navy_primary</item>
+        <item name="colorPrimaryDark">@color/navy_header_start</item>
+        <item name="colorSecondary">@color/flag_red</item>
+        <item name="android:statusBarColor">@color/navy_header_start</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">@color/screen_background</item>
+    </style>
+</resources>

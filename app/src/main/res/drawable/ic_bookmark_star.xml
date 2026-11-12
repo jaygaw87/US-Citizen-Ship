@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="44dp"
+    android:height="44dp"
+    android:viewportWidth="44"
+    android:viewportHeight="44">
+    <!-- Background circle -->
+    <path
+        android:fillColor="#D3ECF7"
+        android:pathData="M22,2 C33.05,2 42,10.95 42,22 C42,33.05 33.05,42 22,42 C10.95,42 2,33.05 2,22 C2,10.95 10.95,2 22,2 Z" />
+    <!-- Bookmark ribbon -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M15,10 C13.9,10 13,10.9 13,12 L13,34 L22,29 L31,34 L31,12 C31,10.9 30.1,10 29,10 L15,10 Z" />
+    <!-- Bookmark fold highlight -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M15,10 L22,10 L22,29 L13,34 L13,12 C13,10.9 13.9,10 15,10 Z" />
+    <!-- White glowing star in center -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M22,14 L23.5,18 L28,18 L24.5,20.5 L26,24.5 L22,22 L18,24.5 L19.5,20.5 L16,18 L20.5,18 Z" />
+</vector>

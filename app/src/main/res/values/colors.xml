@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Navy & Flag Colors -->
+    <color name="navy_header_start">#08142E</color>
+    <color name="navy_header_end">#0F275A</color>
+    <color name="navy_primary">#0B1B3D</color>
+    <color name="navy_selected">#0F275A</color>
+    <color name="flag_red">#D32F2F</color>
+    <color name="flag_red_dark">#B71C1C</color>
+    <color name="gold_accent">#FFC107</color>
+    <color name="gold_dark">#D4AF37</color>
+
+    <!-- Surfaces & Backgrounds -->
+    <color name="screen_background">#F4F7FB</color>
+    <color name="card_surface_white">#FFFFFF</color>
+    <color name="selector_unselected_bg">#E8EFF8</color>
+    <color name="selector_unselected_text">#1A3258</color>
+
+    <!-- 6 Card Palette -->
+    <color name="card_study_bg">#EBF3FD</color>
+    <color name="card_study_icon_bg">#D4E5FA</color>
+    <color name="card_study_icon_tint">#1B64D3</color>
+
+    <color name="card_practice_bg">#FDECEE</color>
+    <color name="card_practice_icon_bg">#FAD6DB</color>
+    <color name="card_practice_icon_tint">#E0314C</color>
+
+    <color name="card_flashcards_bg">#FFF8E7</color>
+    <color name="card_flashcards_icon_bg">#FEEDCA</color>
+    <color name="card_flashcards_icon_tint">#D97706</color>
+
+    <color name="card_interview_bg">#EAF7EE</color>
+    <color name="card_interview_icon_bg">#CEF0D8</color>
+    <color name="card_interview_icon_tint">#15803D</color>
+
+    <color name="card_progress_bg">#F3EDF9</color>
+    <color name="card_progress_icon_bg">#E4D4F3</color>
+    <color name="card_progress_icon_tint">#7C3AED</color>
+
+    <color name="card_saved_bg">#E8F4F8</color>
+    <color name="card_saved_icon_bg">#D0EAF2</color>
+    <color name="card_saved_icon_tint">#0369A1</color>
+
+    <!-- Typography Colors -->
+    <color name="text_primary">#0F1E36</color>
+    <color name="text_secondary">#5A6E85</color>
+    <color name="text_muted">#8EA0B4</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_gold">#FFE082</color>
+
+    <!-- Progress Colors -->
+    <color name="progress_track">#E2E8F0</color>
+    <color name="progress_fill">#0F275A</color>
+    <color name="progress_fill_secondary">#D32F2F</color>
+
+    <!-- Bottom Navigation -->
+    <color name="nav_active">#0B1B3D</color>
+    <color name="nav_inactive">#8E9AA8</color>
+    <color name="nav_indicator">#E2ECF8</color>
+
+    <!-- Generic Basics -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "US Citizenship Test Prep",
+  "description": "Civics, Interview, Flashcards, and Practice Test Prep for US Naturalization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
